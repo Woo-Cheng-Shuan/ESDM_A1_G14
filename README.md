@@ -37,4 +37,20 @@
 | 25 Oct | Grammarly | Checked and corrected grammar, punctuation, and readability across the report | Verified corrections manually to ensure meaning and tone remained accurate |
 | 26 Oct | ChatGPT | Created GitHub-style logbook | Manually edited to fit project timeline |
 
+---
+
+## 📸 Appendix Screenshots
+
+Below are selected screenshots that show the use of AI tools, proofreading, and plagiarism checks during the report preparation process.
+
+### 1. ChatGPT Prompt Example
+![ChatGPT Prompt Screenshot](appendix/images/chatgpt_ss.png)
+
+### 2. Grammarly Grammar Check
+![Grammarly Check Screenshot](appendix/images/grammarly_check.png)
+
+### 3. Turnitin Similarity Report
+![Turnitin Report Screenshot](appendix/images/turnitin_report.png)
+
+
 

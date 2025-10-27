@@ -11,8 +11,8 @@
 
 ## 🗓️ Timeline of Activities 
 
-| Date | Activity Description | Tool / Platform | Outcome |
-|------|----------------------|-----------------|----------|
+| Date | Activity Description | Outcome |
+|------|----------------------|---------|
 | **10 Oct 2025** |  Selected topic and reviewed assignment instructions | Chose Topic 9: *Automating repetitive business processes to improve efficiency and reduce errors* |
 | **16 Oct 2025** | Conducted initial background reading on RPA and enterprise systems | Gained understanding of automation relevance in ERP and CRM |
 | **17 Oct 2025** | Drafted report outline following technical report template | Outline ready (Introduction → Literature Review → Analysis → Recommendations → Conclusion) |

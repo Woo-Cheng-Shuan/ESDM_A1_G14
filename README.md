@@ -44,7 +44,7 @@
 Below are selected screenshots that show the use of AI tools, proofreading, and plagiarism checks during the report preparation process.
 
 ### 1. ChatGPT Prompt Example
-![ChatGPT Prompt Screenshot](appendix/images/chatgpt_ss.png)
+![ChatGPT Prompt Screenshot](appendix/image/chatgpt_ss.png)
 
 ### 2. Grammarly Grammar Check
 ![Grammarly Check Screenshot](appendix/images/grammarly_check.png)

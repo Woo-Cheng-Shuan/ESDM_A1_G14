@@ -31,7 +31,10 @@
 
 | Date | AI Tool Used | Purpose of Use | Verification Method |
 |------|---------------|----------------|---------------------|
-| 15 Oct | ChatGPT | Helped generate report outline ideas | Checked with assignment template for completeness |
-| 20 Oct | ChatGPT | Drafted abstract and keywords | Reviewed and simplified wording manually |
+| 12 Oct | ChatGPT | Helped generate report outline ideas | Checked with assignment template for completeness |
+| 15 Oct | ChatGPT | Drafted abstract and keywords | Reviewed and simplified wording manually |
+| 24 Oct | ChatGPT | Drafted acknowledgement | Reviewed and simplified wording manually |
 | 25 Oct | Grammarly | Checked and corrected grammar, punctuation, and readability across the report | Verified corrections manually to ensure meaning and tone remained accurate |
 | 26 Oct | ChatGPT | Created GitHub-style logbook | Manually edited to fit project timeline |
+
+

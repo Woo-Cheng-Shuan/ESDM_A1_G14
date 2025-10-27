@@ -47,10 +47,10 @@ Below are selected screenshots that show the use of AI tools, proofreading, and 
 ![ChatGPT Prompt Screenshot](appendix/image/chatgpt_ss.png)
 
 ### 2. Grammarly Grammar Check
-![Grammarly Check Screenshot](appendix/images/grammarly_ss.png)
+![Grammarly Check Screenshot](appendix/image/grammarly_ss.png)
 
 ### 3. Turnitin Similarity Report
-![Turnitin Report Screenshot](appendix/images/turnitin_report.png)
+![Turnitin Report Screenshot](appendix/image/turnitin_report.png)
 
 
 

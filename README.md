@@ -52,7 +52,7 @@ Below are selected screenshots that show the use of AI tools, proofreading, and 
 ![Grammarly Check Screenshot](appendix/image/grammarly_ss.png)
 
 ### 3. Turnitin Similarity Report
-![Turnitin Report Screenshot](appendix/image/turnitin_report.png)
+![Turnitin Report Screenshot](appendix/image/plagarism_ss.png)
 
 
 
